@@ -1,7 +1,7 @@
 
 # Notes React App
 
-Aplikasi notes sederhana yang memiliki fitur untuk menambah, mendelete, mengarsipkan dan mencari sebuh notes/catatan. Aplikasi ini merupakan sebuh tugas akhir dari pembelajaran "Belajar Membuat Aplikasi Web dengan React" di Dicoding.
+A simple notes application that features adding, deleting, archiving, and searching for notes. This application is a final project for the "Learn to Build Web Applications with React" course on Dicoding.
 
 ## Run Locally
 
@@ -23,9 +23,12 @@ Install dependencies
   npm install
 ```
 
-Start the server
+Start the app
 
 ```bash
   npm run dev
 ```
 
+## Project Deploy
+
+https://notes-app-ochre-mu.vercel.app/
